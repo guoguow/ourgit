@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e49ef47b-2fcc-4e2b-9947-59636acebbea" name="Default" comment="" />
+=======
+    <list default="true" id="e49ef47b-2fcc-4e2b-9947-59636acebbea" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/SIS.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gfgf.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    </list>
+>>>>>>> origin/master
     <ignored path="SIS.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,6 +35,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
       <file leaf-file-name="gfgf.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gfgf.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -37,6 +50,12 @@
         <entry file="file://$PROJECT_DIR$/asas/sssss.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="591">
+=======
+      <file leaf-file-name="gfgf.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gfgf.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="588">
+>>>>>>> origin/master
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -115,6 +134,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+<<<<<<< HEAD
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="SIS" />
@@ -129,6 +149,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+=======
+>>>>>>> origin/master
         </subPane>
       </pane>
     </panes>
@@ -182,9 +204,12 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+<<<<<<< HEAD
   <component name="SvnConfiguration">
     <configuration />
   </component>
+=======
+>>>>>>> origin/master
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e49ef47b-2fcc-4e2b-9947-59636acebbea" name="Default" comment="" />
@@ -245,6 +270,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/asas/sssss.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="616">
@@ -253,6 +279,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> origin/master
   </component>
 </project>
 
